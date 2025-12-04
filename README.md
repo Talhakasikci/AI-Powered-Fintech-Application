@@ -9,7 +9,7 @@ The system is built on a Client-Server Architecture, separating the heavy liftin
 🚀 Key Features
 Multi-Asset Market Tracking:
 
-Stocks: Live monitoring of stock prices from major indices (Nasdaq, BIST).
+Stocks: Live monitoring of stock prices from major indices (Nasdaq).
 
 Cryptocurrencies: Real-time tracking of top digital assets like Bitcoin and Ethereum.
 
